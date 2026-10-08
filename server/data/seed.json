@@ -1,0 +1,16 @@
+[
+  {"id": "t1",  "start": "2026-10-01T08:10:00+05:00", "end": "2026-10-01T08:32:00+05:00", "amount": 2400, "payment": "card", "commission": 360},
+  {"id": "t2",  "start": "2026-10-01T09:05:00+05:00", "end": "2026-10-01T09:20:00+05:00", "amount": 1500, "payment": "cash", "commission": 225},
+  {"id": "t3",  "start": "2026-10-01T10:15:00+05:00", "end": "2026-10-01T10:48:00+05:00", "amount": 3200, "payment": "card", "commission": 480},
+  {"id": "t4",  "start": "2026-10-01T12:30:00+05:00", "end": "2026-10-01T12:41:00+05:00", "amount": 1100, "payment": "cash", "commission": 165},
+  {"id": "t5",  "start": "2026-10-01T18:05:00+05:00", "end": "2026-10-01T18:50:00+05:00", "amount": 4100, "payment": "card", "commission": 615},
+  {"id": "t6",  "start": "2026-10-02T07:45:00+05:00", "end": "2026-10-02T08:10:00+05:00", "amount": 1900, "payment": "cash", "commission": 285},
+  {"id": "t7",  "start": "2026-10-02T09:30:00+05:00", "end": "2026-10-02T10:05:00+05:00", "amount": 2800, "payment": "card", "commission": 420},
+  {"id": "t8",  "start": "2026-10-02T17:20:00+05:00", "end": "2026-10-02T17:58:00+05:00", "amount": 3500, "payment": "card", "commission": 525},
+  {"id": "t9",  "start": "2026-10-05T08:00:00+05:00", "end": "2026-10-05T08:25:00+05:00", "amount": 2100, "payment": "card", "commission": 315},
+  {"id": "t10", "start": "2026-10-05T11:10:00+05:00", "end": "2026-10-05T11:30:00+05:00", "amount": 1700, "payment": "cash", "commission": 255},
+  {"id": "t11", "start": "2026-10-05T19:00:00+05:00", "end": "2026-10-05T19:40:00+05:00", "amount": 3900, "payment": "card", "commission": 585},
+  {"id": "t12", "start": "2026-10-05T20:15:00+05:00", "end": "2026-10-05T20:30:00+05:00", "amount": 1300, "payment": "cash", "commission": 195},
+  {"id": "t13", "start": "2026-10-06T08:20:00+05:00", "end": "2026-10-06T08:50:00+05:00", "amount": 2600, "payment": "card", "commission": 390},
+  {"id": "t14", "start": "2026-10-06T13:00:00+05:00", "end": "2026-10-06T13:22:00+05:00", "amount": 1800, "payment": "cash", "commission": 270}
+]

@@ -1,0 +1,17 @@
+# Dart / Flutter
+.dart_tool/
+.packages
+build/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Рабочие данные сервера (создаются из data/seed.json при первом запуске)
+server/data/trips.json
+server/data/trips.json.tmp
+
+# IDE / ОС
+.idea/
+.vscode/
+*.iml
+.DS_Store

@@ -1,0 +1,10 @@
+name: driver_diary_server
+description: Сервер дневника смен водителя (чистый Dart, без внешних зависимостей).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.4.0
+
+dev_dependencies:
+  test: ^1.25.0
